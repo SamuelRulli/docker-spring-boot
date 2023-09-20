@@ -1,0 +1,7 @@
+# Target directory
+target/
+
+# IntelliJ IDEA related
+.idea/
+*.iml
+*.iws
